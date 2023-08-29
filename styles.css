@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-container {
+  padding-top: 5%;
+  padding-bottom: 2%;
+  /* padding-left: 8%; */
+  text-align: center;
+  background: #dd3544;
+}
+
+.left-container {
+  padding: 20px;
+}
+
+.right-container {
+  padding: 20px;
+}
+
+input {
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 1px solid #eee;
+}
+
+.email {
+  width: 100%;
+}
+
+textarea {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 1px solid #eee;
+}
+
+.vertical {
+  height: 100%;
+  width: 1px;
+  background-color: #eee;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  padding-bottom: 3%;
+  font-weight: bold;
+}
